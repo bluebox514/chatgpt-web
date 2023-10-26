@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/github/license/bluebox514/chatgpt-web)](/LICENSE)
 [![All Contributors](https://img.shields.io/github/all-contributors/bluebox514/chatgpt-web?color=ee8449&style=flat-square)](#contributors)
 
-## **URL**: https://niek.github.io/chatgpt-web/
+## **URL**: https://bluebox514.github.io/chatgpt-web/
 
 ![Screenshot of ChatGPT-web](.github/screenshot.png)
 
